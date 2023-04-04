@@ -1,0 +1,33 @@
+div{
+    /* background-color: red; */
+    /* width: 500px; */
+}
+#container{
+    /* background-color: green; */
+    margin-left: 480px;
+    margin-top: 280px;
+    display: flex;
+    -ms-flex-align: center;
+}
+.col{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.row{
+    width: 50px;
+    height: 50px;
+    border: 2px;
+    background-color: green;
+    border-style: solid;
+    border-color: black;
+}
+/* .row:hover{
+    background-color: violet;
+} */
+.hov{
+    background-color: violet;
+}
